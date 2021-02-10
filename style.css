@@ -1,0 +1,49 @@
+html {
+    background-color: #181818;
+}
+body {
+    color: lightgray;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+gen {
+  background-color: lightgrey;
+  width: 50px;
+  border: 5px solid green;
+  padding: 5x;
+  margin: 5px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: crosshair;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #181850;
+   color: yellow;
+   text-align: center;
+}
+a:link {
+  color: #fc03d3;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #fc03d3;
+  background-color: transparent;
+  text-decoration: none;
+}
+p.solid {border-style: solid;}
