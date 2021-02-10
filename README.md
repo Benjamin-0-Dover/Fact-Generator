@@ -1,12 +1,15 @@
-# Fact-Generator
-Simple html and javascript fact generator.
+# Fact Generator
 
-Credit for the facts: assaf on gihub.
-Original link for all the facts: https://github.com/assaf/dailyhi/blob/master/facts.txt
+Fact Generator is a simple html webpage that sorts through a list of facts provided and writes on to webpage in javascript
 
-If you do use this please give me credit.
+## Usage
 
-# How It Works
-To make it choose between a huge list of facts
+Just press a button ¯\_(ツ)_/¯
 
-gtg...ill finish this later
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
