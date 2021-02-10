@@ -1,6 +1,6 @@
 # Fact Generator
 
-Fact Generator is a simple html webpage that sorts through a list of facts provided and writes on to webpage in javascript.
+Fact Generator is a simple html webpage that sorts through a list of facts provided and writes on to webpage in javascript.  
 Finished Version: [FactGen](https://factgen.glitch.me)  
 Finished version has 3,090 facts.
 
