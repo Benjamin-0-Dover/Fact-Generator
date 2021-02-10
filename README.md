@@ -15,3 +15,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) 
+
+I honestly don't care if you take this and create your own and change it up or something. Please give me credit though!
