@@ -10,4 +10,4 @@ var facts = ["Indonesia consists only of islands - 13,667 total","During World W
                 var fact = facts[Math.floor(Math.random() * facts.length)];
 
                 return fact;
-            }
+            } 
