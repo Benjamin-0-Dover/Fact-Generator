@@ -2,7 +2,7 @@
 Simple html and javascript fact generator.
 
 # Finished  
-The finished site is [Here](https//factgen.glitch.me).
+The finished site is [Here](https://factgen.glitch.me).
 
 # Preview  
 I don't think i can embed the video preview here so just look in preview.mp4
